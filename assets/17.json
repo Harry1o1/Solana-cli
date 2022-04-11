@@ -1,0 +1,66 @@
+{
+  "name": "Your Collectionop #17",
+  "symbol": "CD",
+  "description": "Remember to replace this descriptionopiph",
+  "seller_fee_basis_points": 1000,
+  "image": "17.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 17,
+  "collection": {
+    "name": "Hello bro",
+    "family": "My nfts"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "17.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AHHAiKR2m4Z4LKxZhrxWcGca5mwrVQTqo4E4wh5eY95x",
+        "share": 40
+      },
+      {
+        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        "share": 30
+      },
+      {
+        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        "share": 30
+      }
+    ]
+  }
+}
